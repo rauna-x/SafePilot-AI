@@ -88,7 +88,7 @@ SafePilot/
 ## 🔧 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/SafePilot-AI-Driver-Monitoring.git
+git clone https://github.com/rauna-x/SafePilot-AI.git
 cd SafePilot-AI-Driver-Monitoring
 pip install -r requirements.txt
 python main.py
